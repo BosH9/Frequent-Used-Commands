@@ -29,4 +29,4 @@ ul.appendChild(li);
 
 
 
-https://api.themoviedb.org/3/trending/all/day?api_key=95151cae44d96379291d89bb6a8894e1
+https://api.themoviedb.org/3/trending/all/day?api_key=123
